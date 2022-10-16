@@ -1,0 +1,18 @@
+{
+  "name": "microformulas",
+  "version": "0.0.1",
+  "description": "Microservice for for parsing excel formulas. This package is based on Hyperformula",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hyperformula": "^2.1.0",
+    "nodemon": "^2.0.20",
+    "request": "^2.88.2"
+  }
+}
